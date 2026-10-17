@@ -1,11 +1,8 @@
 # About me
 
-I'm Eric Wong (Eric0417), a full-stack developer who turns real-world data and
-AI capabilities into usable web products. I usually work across the interface,
-the API, and the tests that keep live data and user state reliable.
-
-I'm interested in live public data, transport systems, education software, AI
-interfaces, and reinforcement learning for traffic-signal control.
+I'm Eric Wong (Eric0417), a full-stack developer building practical web
+products. I work mainly with TypeScript and Python across the frontend, API, and
+testing layers.
 
 ## Socials
 
@@ -60,37 +57,3 @@ interfaces, and reinforcement learning for traffic-signal control.
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## Selected work
-
-### [Macau Traffic Intelligence](https://github.com/Eric0417/macau-traffic-intelligence)
-
-A map-first public transport dashboard combining live road congestion, bridge
-travel times, bus positions, cameras, parking, weather, border information, and
-the LRT network.
-
-[Live app](https://macau-traffic-intelligence.onrender.com) |
-[Source](https://github.com/Eric0417/macau-traffic-intelligence)
-
-### [Mathematics Learning Platform](https://github.com/Eric0417/fatmathfat)
-
-A Traditional Chinese learning platform with interactive geometry tools,
-practice, progress tracking, Email OTP login, and an AI tutor.
-
-[Source](https://github.com/Eric0417/fatmathfat)
-
-### [IELTS Practice](https://github.com/Eric0417/ielts-practice)
-
-A full-stack platform for IELTS reading, listening, and writing practice,
-including AI-assisted feedback and attempt history.
-
-[Live app](https://ielts-system-fat.onrender.com) |
-[Source](https://github.com/Eric0417/ielts-practice)
-
-### [SnapStrip](https://github.com/Eric0417/snapstrip-fat)
-
-A local-first four-frame photo booth that composes and processes photos in the
-browser.
-
-[Live app](https://snapstrip-fat.onrender.com) |
-[Source](https://github.com/Eric0417/snapstrip-fat)
